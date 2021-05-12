@@ -1,15 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+# سرنوشت! 🤔
 
-# Destini 🤔
+## هدف ما در این نرم افزار
 
-## Our Goal
+در این پروژه یک باز تصمیم محور ساختیم که از اصول شی گرایی در زبان دارت پیروی میکند
+این بازی مانند Bandersnatch است و با هر انتخاب نتیجه بازی تغییر میکند
 
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+تصاویر نرم افزار
